@@ -1,4 +1,6 @@
-![Alt text](http://aaroniker.me/header.png "Login")
+![Alt text]("Login")
+
+#MCH implementation of Rokket panel.
 
 #Rokket
 
@@ -14,6 +16,3 @@ Caused by a modern and lightweight interface it's very easy to create, edit and 
 
 ###Links
 - <a href="https://github.com/dgibbs64/linuxgsm"> Based on LGSM shell scripts
-- <a href="http://rokket.info/"> Website
-- <a href="http://rokket.info/forum"> Forum
-- <a href="https://www.facebook.com/pages/Rokket/1562909277254179"> Facebook
