@@ -2,8 +2,6 @@
 
 #MCH implementation of Rokket panel.
 
-#Rokket
-
 Rokket is a free open source webinterface for managing game servers, like: Counter-Strike, Half Life, Arma, Quake and many more.
 Caused by a modern and lightweight interface it's very easy to create, edit and delete the server - also there is an advanced user- and permession management.
 
